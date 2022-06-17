@@ -8,7 +8,7 @@ title: Summer 2022 DREU Project Site
 
 ## About Me
 
-Tavie Kittredge (she/her) is a third year Computer Science and English double major at Davidson College in North Carolina. She has previously done undergraduate research related to distributed computing.
+Tavie Kittredge (she/her) is a third year Computer Science and English double major at Davidson College in North Carolina. She plans to graduate in Spring 2024 and has previously done undergraduate research related to distributed computing.
 
 ## About My Mentor
 
