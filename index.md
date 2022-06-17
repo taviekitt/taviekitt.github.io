@@ -8,7 +8,7 @@ title: Summer 2022 DREU Project Site
 
 ## About Me
 
-Tavie Kittredge (she/her) is a rising junior, and English and Computer Science double major, at Davidson College in North Carolina. She has previously done undergraduate research related to distributed computing.
+Tavie Kittredge (she/her) is a third year Computer Science and English double major at Davidson College in North Carolina. She has previously done undergraduate research related to distributed computing.
 
 ## About My Mentor
 
@@ -21,7 +21,7 @@ Amato received the 2019 IEEE RAS Leadership Award in Robotics and Automation, th
 Source: (https://parasollab.web.illinois.edu/people/amato/)
 ## About My Project
 
-Tavie Kittredge is doing research relating to motion and task planning for robot at the University of Illinois Urbana-Champaign's Parasol Lab. 
+Tavie Kittredge is doing research relating to motion and task planning for robots at the University of Illinois Urbana-Champaign's Parasol Lab. 
 
 [My Final Report](files/finalreport.pdf)
 
