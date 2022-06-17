@@ -18,7 +18,7 @@ Amato received undergraduate degrees in Mathematical Sciences and Economics from
 
 Amato received the 2019 IEEE RAS Leadership Award in Robotics and Automation, the 2019 IROS Harashima Award for Innovative Technologies, the 2014 CRA Habermann Award, the inaugural NCWIT Harrold/Notkin Research and Graduate Mentoring Award in 2014, the 2013 IEEE Hewlett-Packard/Harriet B. Rigas Award, and Texas A&M university-level awards in teaching (2011) and research (2018). She is a Fellow of the AAAI, AAAS, ACM, and IEEE.
 
-[Source:](https://parasollab.web.illinois.edu/people/amato/)
+[Source](https://parasollab.web.illinois.edu/people/amato/)
 ## About My Project
 
 Tavie Kittredge is doing research relating to motion and task planning for robots at the University of Illinois Urbana-Champaign's Parasol Lab. 
