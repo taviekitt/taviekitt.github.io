@@ -1,0 +1,13 @@
+---
+layout: post
+title: Week 3
+---
+
+This week I completed lesson 4, which concludes the onboarding lessons. In lesson 4, I read about discussed the topology of C-Spaces. 
+I'd never learned about topology before, so learning that a maze and a square are the same shape took some getting used to, but I found it interesting. Then, we were
+asked to really code in C++ and the Parasol library for the first time. We eached coded our each own EST (Expansive-Space Tree) using the Parasol Library. In an EST, trees of 
+nodes grow from the start and end goals and then attempt to merge. Like PRMs, ESTs sample the configuration space, but like RRTs and unlike PRMs, they're useful for finding
+single paths rather than repeated use.
+
+It was a good project to get used to the standards for the lab and debugging methods we can use. I got much better at gdb. However, I still spent over ten hours trying to solve
+a single segmentation fault. I slept so well once I finally got it.
