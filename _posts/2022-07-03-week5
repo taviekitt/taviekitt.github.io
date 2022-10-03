@@ -1,0 +1,13 @@
+---
+layout: post
+title: Week 5
+---
+
+This week I worked on the Bridge Test code all week. My job is to prepare the code to be moved to the version of the PMPL library that will be open source. The Bridge Test is what is called a sampler. When motion planning it is very expensize to text a path for collisions. Therefore, when using a technique like PRM to construct roadmaps or paths between sampled configurations, choosing these pathways carefully is important. A sampler is what selects the configurations that the motion planner will attempt to connect.
+
+This week I learned that the Bridge Test filters randomly selected configurations so that only configurations that might help find a path through a narrow passage are allowed. The Narrow Passage Problem means that finding pathways through narrow passages is computationally expensive, and so the Bridge Test constructs a 'bridge' by checking two points on either side of each randomly selected configuration. Only valid configurations between invalid configurations are likely to be in narrow passages and so are returned by the test.
+
+I successfully debugged and got the Bridge Test code to compile and run, created a test, and verified that the bridges exist for individual robots. Next, I need to modify the code to support Group (multiple) robots. 
+
+Additionally, my PhD mentor, Courtney returned from visiting her family this week. It was nice to meet her in person, and to bother her with questions about the Bridge Test. I enjoyed getting Chipotle. Also, I started reading her new paper that she's editing for publiciation. I don't understand all of it, but it's fun asking her questions about her work.
+
