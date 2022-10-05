@@ -21,7 +21,7 @@ Amato received the 2019 IEEE RAS Leadership Award in Robotics and Automation, th
 [Source](https://parasollab.web.illinois.edu/people/amato/)
 ## About My Project
 
-Tavie Kittredge is doing research relating to motion and task planning for robots at the University of Illinois Urbana-Champaign's Parasol Lab. 
+Tavie Kittredge is doing research relating to motion and task planning for robots at the University of Illinois Urbana-Champaign's Parasol Lab. She has worked on onboarding lessons, preparing the C++-based Parasol Motion Planning Library to be released as open-source, and expanding topologically guided motion planning to multiple robots. This topologically guided motion planning could potentially help many robots navigate in warehouse-like settings.
 
 [My Final Report](files/finalreport.pdf)
 
